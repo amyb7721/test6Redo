@@ -1,0 +1,12 @@
+Test Case:
+
+Description:
+This test will show if five robots are on the page when the urser clicks on the draw button.
+
+Steps:
+1. setup website by navigating to root folder of project and running "nodemon"
+ 2. go to localhost:3000
+ 3. click the "draw" button.
+
+ Test Postconditions:
+ -five robots cards should appear on the page.

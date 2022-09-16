@@ -1,0 +1,22 @@
+Test Plan for robot duel app
+
+Overview:
+-test main functions of the app
+
+links:
+localhost:300
+
+Test Criteria:
+-make sure battle can happen
+-shows wins and losses after battle
+-if you can see all bots when you hit the all bot button
+-can create a due team of robots 
+-can we see five robots when starting a battle
+
+Entry Criteria:
+
+-project is downloadede on local machines
+-Nodemon running back end on port 3000
+
+Exit Criteria:
+-all test cases run and pass

@@ -1,0 +1,30 @@
+Bug Report for test case 
+
+sept 7, 2022
+
+Description
+
+-The 'see all bots' button does not work
+
+Steps to Reproduce:
+
+1. setup website by navigating to root folder of project and running "nodemon"
+ 2. go to localhost:3000
+ 3. click the "all bots"
+
+
+Expected Results:
+-page should have robot cards in our system
+-no error should be logged
+
+Actual results:
+
+-clicking button does nothing (no bots displayed)
+-clicking button produces errors in browser conscle 
+-clicking button prodcues error in node produces
+
+Environment:
+
+MacBook Air 
+Chrome version 
+
